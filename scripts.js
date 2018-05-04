@@ -1,7 +1,7 @@
 
 
 
-var tacoListItem = function(id, name, pictureUrl, cuisine, rating) {
+var gardenListItem = function(id, name, pictureUrl, cuisine, rating) {
   return `<div class="col-sm-6">
     <div class="card mb-4 box-shadow">
       <a href="taqueria.html?id=${id}"><img class="card-img-top" src="${pictureUrl}"></a>
@@ -38,3 +38,5 @@ $.getJSON( "https://api.airtable.com/v0/appSrgke7E0ElZhMY/Restaurants?api_key=ke
 
   $(".taqueria-list" ).append(items.join(""));
 });
+
+
