@@ -8,9 +8,10 @@ h1 {
     color: forestgreen;
 }
 table, th, td {
-    border: 3px solid #331a00;
+    border: 5px solid #331a00;
 }
 blockquote {
     border: .5px groove #331a00;
+    font-style: italic;
 }
 
