@@ -5,7 +5,7 @@ body {
     color: black;
 }
 h1 {
-    color: #003300; font-family: "Lucida Console"; font-size: 500px;
+    color: #003300; font-family: "Lucida Console"; font-size: 50px;
 }
 table, th, td {
     border: 5px solid #331a00;
