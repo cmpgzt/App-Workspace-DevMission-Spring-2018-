@@ -8,7 +8,7 @@ h1 {
     color: #003300; font-family: "Lucida Console"; font-size: 50px; font-style: oblique;
 }
 h2 {
-
+    color: #595959; 
 }
 p2 { font-style: normal #black;
 
@@ -21,5 +21,4 @@ blockquote {
     border: .5px dotted #331a00;
     font-style: italic;
 }
-
 
