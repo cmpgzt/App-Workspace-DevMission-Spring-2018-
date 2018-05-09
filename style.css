@@ -9,6 +9,7 @@ h1 {
 }
 table, th, td {
     border: 5px solid #331a00;
+    font-style: normal ##1a0000;
 }
 blockquote {
     border: .5px dotted #331a00;
