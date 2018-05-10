@@ -6,7 +6,8 @@ body {
     color: black;
 }
 .all-view {
-    background-image: url ("Leaves.jpg")
+    background-image: url ("Leaves.jpg");
+    background-repeat: repeat;
 }
 
 h1 {
