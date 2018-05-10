@@ -1,5 +1,6 @@
 head {
-   background-image: url("http://www.baltana.com/files/wallpapers-2/Leaves-Background-Wallpaper-03522.jpg");
+    background-image: http://www.baltana.com/files/wallpapers-2/Leaves-Background-Wallpaper-03522.jpg;
+    background-repeat: repeat-x;
 }
 body {
     color: black;
@@ -21,5 +22,4 @@ blockquote {
     border: .5px dotted #331a00;
     font-style: italic;
 }
-
 
